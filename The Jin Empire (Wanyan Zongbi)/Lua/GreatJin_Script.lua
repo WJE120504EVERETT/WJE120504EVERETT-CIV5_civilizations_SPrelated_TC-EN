@@ -519,26 +519,26 @@ function IronPagodaChargeInputHandler( uiMsg, wParam, lParam )
 end
 ContextPtr:SetInputHandler( IronPagodaChargeInputHandler )
 
---- Transfer Raid Cooldown  3 rounds
--- GameEvents.PlayerDoTurn.Add(
--- function(playerID)
--- 	local player = Players[playerID] 
+Transfer Raid Cooldown 3 rounds
+GameEvents.PlayerDoTurn.Add(
+function(playerID)
+ 	local player = Players[playerID] 
 
--- 	if player == nil or player:IsBarbarian() then
--- 		return
--- 	end
+ 	if player == nil or player:IsBarbarian() then
+ 		return
+ 	end
 
--- 	for unit in player:Units() do
--- 		if unit:IsHasPromotion(ScarletEWID) then
--- 			local iScarletEW = load( player, "IronPagodaCharge", iScarletEW) or -1;
--- 			if iScarletEW < 2 and iScarletEW >= 0 then
--- 				iScarletEW = iScarletEW + 1
--- 				save( player, "IronPagodaCharge", iScarletEW)
--- 			elseif iScarletEW == 2 then
--- 				iScarletEW = -1
--- 				save( player, "IronPagodaCharge", iScarletEW)
--- 			end
--- 		end
--- 	end
+ 	for unit in player:Units() do
+ 		if unit:IsHasPromotion(ScarletEWID) then
+ 			local iScarletEW = load( player, "IronPagodaCharge", iScarletEW) or -1;
+ 			if iScarletEW < 2 and iScarletEW >= 0 then
+ 				iScarletEW = iScarletEW + 1
+ 				save( player, "IronPagodaCharge", iScarletEW)
+ 			elseif iScarletEW == 2 then
+ 				iScarletEW = -1
+ 				save( player, "IronPagodaCharge", iScarletEW)
+ 			end
+ 		end
+ 	end
 
--- end)
+ end)
