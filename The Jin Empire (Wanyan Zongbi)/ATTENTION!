@@ -14,7 +14,7 @@ DateCreated: 2025/3/12
 2025/3/12
 The main file was uploaded.
 Update Audio part of the audio bitrate to make it playable.
-//Everything except the XML section is complete.
+// Everything except the XML section is complete.
 
 2025/3/13
 Modified part of the "Teleport Raid Cooldown 3 Turns" mechanism (GreatJin_Script.lua)
