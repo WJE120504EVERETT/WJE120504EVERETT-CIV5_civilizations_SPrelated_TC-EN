@@ -17,7 +17,7 @@ Update Audio part of the audio bitrate to make it playable.
 //Everything except the XML section is complete.
 
 2025/3/13
-Added "Transfer Raid Cooldown 3 rounds" (GreatJin_Script.lua)
+Modified part of the "Teleport Raid Cooldown 3 Turns" mechanism (GreatJin_Script.lua)
 
 2025/3/14
 An XML file set is added, the author does a preliminary translation of the civilization content, and designs a "promotion" system.
