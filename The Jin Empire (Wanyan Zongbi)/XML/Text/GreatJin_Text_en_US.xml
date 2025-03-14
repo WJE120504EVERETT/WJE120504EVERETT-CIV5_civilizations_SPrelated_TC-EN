@@ -1,0 +1,379 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 2022/1/7 15:14:16 -->
+<GameData>
+	<Language_en_US>
+		<!--*******************************文明*******************************-->
+		<Row Tag="TXT_KEY_CIV_WZJ_JIN_DESC">
+			<Text>大金帝国</Text>
+		</Row>
+
+
+		<Row Tag="TXT_KEY_CIV_WZJ_JIN_SHORT_DESC">
+			<Text>大金</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_WZJ_JIN_ADJECTIVE">
+			<Text>金朝</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_WZJ_JIN">
+			<Text>大金</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_WZJ_JIN_TITLE">
+			<Text>大金帝国</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_WZJ_JIN_HEADING_1">
+			<Text>历史</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_WZJ_JIN_TEXT_1">
+			<Text>
+				金朝（1115年-1234年），是中国历史上由女真族建立的统治中国北方和东北地区的封建王朝，完颜阿骨打（完颜旻）所建。西与西夏、蒙古等接壤，南与南宋对峙。共传十帝，享国119年。
+				金太祖完颜阿骨打（完颜旻）统一女真诸部后起兵反辽。1115年在上京会宁府（今黑龙江省哈尔滨市阿城区）立国，国号金，建元“收国”。1125年灭辽朝，1127年又发动靖康之变灭北宋。1130年，宋高宗赵构向金帝上降表称臣。1153年，海陵王完颜亮迁都中都（今北京）。金世宗、金章宗统治时期政治文化达到巅峰，金章宗在位后期急剧由盛转衰。金宣宗继位后，内部政治腐败、民不聊生，外受大蒙古国南侵，被迫迁都汴京（今河南开封）。1234年，金在南宋和蒙古南北夹击下覆亡于蔡州。
+				金朝奠定了中国北方的疆域，对于确定后来中国北方的版图起到了奠基性作用。金朝鼎盛时期疆域包括东北、华北、关中以及俄罗斯远东地区。南至大散关至淮河一线，与南宋对峙；西北与西夏并立；东北地区达外兴安岭，东临日本海。
+				金朝的陶瓷业与炼铁业兴盛，对外贸易的榷场还掌控西夏的经济命脉。金朝在文化方面也快速汉化，杂剧与戏曲在金朝得到相当的发展，金代院本为后来元曲的杂剧打下了基础。
+				金朝初期采取贵族合议的勃极烈制度，后逐渐由二元政治走向单一汉制。军事上采行军民合一的猛安谋克制度。
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CIV5_DOM_WZJ_JIN_TEXT">
+			<Text>
+				四太子，您是阿骨打的子孙，是白山黑水中的雄鹰，是大金的擎天之柱。您搜山捡海，血战富平，折断了宋国官家的脊梁，打下了大金的赫赫国威！您智走黄天荡，巧遁仙人关，泼韩五吴太尉岂能及；您迎刘琦于顺昌，狩岳飞于颖昌，宋主称臣，县官献土，两武穆又有何惧！[NEWLINE]
+				您蹙宋主于海岛，卒定画淮之约，矢石交集，而王免胄，指挥三军，意气自若，用兵制胜，皆合孙吴，所向无前，辟国千里，壮士健马而不自恤，群民百姓岂念困苦，利出一夫谋己之私，泽被寰宇兆民之众。[NEWLINE]
+				而今您再临至尊之位，机不可失，时不再来，是时候去完成大金代代的夙愿了：[NEWLINE]
+				万里江山一混同，江南岂有别疆封。[NEWLINE]
+				提兵百万西湖上，立马吴山第一峰！
+			</Text>
+		</Row>
+
+		<!--*******************************建筑*******************************-->
+		<!--UNIQUE 1-->
+		<Row Tag="TXT_KEY_BUILDING_WZJ_JIN_JIEHAO">
+			<Text>[ICON_STRENGTH]界壕</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_WZJ_JIN_JIEHAO_HELP">
+			<Text>[ICON_PRODUCTION] 占领城市和傀儡城市中建造时间减半。基于城市与首都的距离，3格内的境内敌方单位在回合开始时最高受到25点的伤害。[NEWLINE][NEWLINE]城市需要建有城墙。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_WZJ_JIN_JIEHAO_TEXT">
+			<Text>
+				金代修有金初界壕（1129年）、大定初界壕（1162年）、边堡（1165年）、边壕（1181年）、和明昌长城（1194年—1198年）、乌沙堡长城（1200—1210年），金界壕与金长城东起大兴安岭东麓内蒙古莫旗七家子，终点在武川县上庙沟，但中间分有大定初界壕、大定二十一年边壕和明昌长城、乌沙堡长城。经过霍林河的是1181年（金大定二十一年）修筑的边壕。它周围百里，群山起伏，岭高壑深。霍林河南面却地势平坦，水草丰美；泉水清澈，气候凉爽。 当你到霍林河旅游或避暑，漫步在空气清新的草原上，会发现一条"土龙"沿霍林河谷，从东北群山中蜿蜒而来，横穿矿区，奔向西南，进入锡盟境内，这就是金边壕，俗称"成吉思汗边墙"。由于在壕内堆土为长堤，在长堤上加筑马面，沿界壕内侧每隔一定距离兴筑有边堡，并在重要交通路口兴筑关隘，所以又称为"界壕边堡"。[NEWLINE]
+				公元1125年，女真族灭辽败宋，在今黑龙江省阿城县白城子（金上京）建立了一个与南宋、西夏三分鼎立的金政权。这个政权建立不久，为了稳固自己的统治，防御辽末残余势力耶律大石的侵扰于1129年（天会7年）开始修建金初界壕，1181年又为了防御北方游牧民族的骚扰修筑了边壕。1194年—1198年修筑了明昌长城。1200年西北路在原大定界壕的基础上修筑了第二道长城防线——乌沙堡长城。于1210年增筑边堡、屯兵城，用于防御成吉思汗的蒙古大军。
+			</Text>
+		</Row>
+		<!--Dummies-->
+		<Row Tag="TXT_KEY_BUILDING_WZJ_JIN_PRODUCTION">
+			<Text>大金：产能加成</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_WZJ_JIN_PRODUCTION_HELP">
+			<Text>+1% [ICON_PRODUCTION] 产能。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_WZJ_JIN_SCIENCE">
+			<Text>大金：科研加成</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_WZJ_JIN_SCIENCE_HELP">
+			<Text>+1% [ICON_RESEARCH] 科研。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_WZJ_JIN_FOOD">
+			<Text>大金：粮食加成</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_WZJ_JIN_FOOD_HELP">
+			<Text>+1% [ICON_FOOD] 粮食。</Text>
+		</Row>
+		<!--*******************************城市*******************************-->
+		<Row Tag="TXT_KEY_CITY_NAME_WZJ_JIN_01">
+			<Text>会宁府</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_WZJ_JIN_02">
+			<Text>析津府</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_WZJ_JIN_03">
+			<Text>开封府</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_WZJ_JIN_04">
+			<Text>辽阳府</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_WZJ_JIN_05">
+			<Text>大同府</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_WZJ_JIN_06">
+			<Text>临潢府</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_WZJ_JIN_07">
+			<Text>大定府</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_WZJ_JIN_08">
+			<Text>广宁府</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_WZJ_JIN_09">
+			<Text>锦州</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_WZJ_JIN_10">
+			<Text>河间府</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_WZJ_JIN_11">
+			<Text>丰州</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_WZJ_JIN_12">
+			<Text>大名府</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_WZJ_JIN_13">
+			<Text>邢州</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_WZJ_JIN_14">
+			<Text>临洮府</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_WZJ_JIN_15">
+			<Text>凤翔府</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_WZJ_JIN_16">
+			<Text>京兆府</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_WZJ_JIN_17">
+			<Text>太原府</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_WZJ_JIN_18">
+			<Text>平阳府</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_WZJ_JIN_19">
+			<Text>东胜州</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_WZJ_JIN_20">
+			<Text>延安府</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_WZJ_JIN_21">
+			<Text>济南府</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_WZJ_JIN_22">
+			<Text>归德府</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_WZJ_JIN_23">
+			<Text>奉圣州</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_WZJ_JIN_24">
+			<Text>真定府</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_WZJ_JIN_25">
+			<Text>邓州</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_WZJ_JIN_26">
+			<Text>唐州</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_WZJ_JIN_27">
+			<Text>蔡州</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_WZJ_JIN_28">
+			<Text>颍州</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_WZJ_JIN_29">
+			<Text>济州</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_WZJ_JIN_30">
+			<Text>咸州</Text>
+		</Row>
+		<!--*******************************间谍*******************************-->
+		<Row Tag="TXT_KEY_SPY_NAME_WZJ_JIN_0">
+			<Text>完颜构</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_WZJ_JIN_1">
+			<Text>秦桧</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_WZJ_JIN_2">
+			<Text>王氏</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_WZJ_JIN_3">
+			<Text>万俟卨</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_WZJ_JIN_4">
+			<Text>勾龙如渊</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_WZJ_JIN_5">
+			<Text>刘豫</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_WZJ_JIN_6">
+			<Text>刘麟</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_WZJ_JIN_7">
+			<Text>李成</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_WZJ_JIN_8">
+			<Text>刘蕴古</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_WZJ_JIN_9">
+			<Text>张邦昌</Text>
+		</Row>
+		<!--*******************************领袖*******************************-->
+		<Row Tag="TXT_KEY_LEADER_WZJ_WUZHU">
+			<Text>完颜宗弼</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_WZJ_WUZHU_PEDIA_NAME">
+			<Text>完颜宗弼</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_WZJ_WUZHU_PEDIA_SUBTITLE">
+			<Text>金兀术</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_WZJ_WUZHU_PEDIA_TITLES_1">
+			<Text>金朝皇子、名将、开国功臣</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_WZJ_WUZHU_PEDIA_LIVED">
+			<Text>？-1148年11月19日</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_WZJ_WUZHU_PEDIA_HEADING_1">
+			<Text>人物生平</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_WZJ_WUZHU_PEDIA_TEXT_1">
+			<Text>
+				完颜宗弼（？-1148年11月19日）金朝皇子、名将、开国功臣。女真族。女真名兀术，又译作乌珠、斡啜，斡出、晃斡出。生于黑龙江省哈尔滨市阿城区海沟河畔。是金朝开国皇帝金太祖·完颜阿骨打的第四子，《大金国志》中记载为第六子。母亲是元妃·乌古论氏。[NEWLINE]
+				完颜宗弼最初跟随异母兄弟宋国王·完颜宗望（金太祖第二子）追击辽朝天祚帝·耶律延禧于鸳鸯泺。[NEWLINE]
+				天会三年（公元1125年），随军攻打北宋，克汤阴，参加围攻东京。[NEWLINE]
+				天会六年（公元1128年），率军攻打山东，击败宋军数万，连克青州、临朐等城。[NEWLINE]
+				天会七年（公元1129年），复率军攻打北宋，先后在大名府、和州击败宋军。此后一直是金朝主战派的代表，并领导了多次南侵，与宋军先后在黄天荡、富平、和尚原、两淮等地展开激战，胜败不一。[NEWLINE]
+				天眷二年（公元1139年）金、宋两国签订和议。次年，宗弼杀金朝主和派大臣完颜昌等，撕毁和约，再次大举南侵，但在顺昌、颍昌、柘皋镇等地大败，被迫退守开封。[NEWLINE]
+				皇统元年（公元1141年），利用南宋宰相秦桧除掉大将岳飞等人，迫使南宋称臣，并签定“绍兴和议”，以功进封太傅。[NEWLINE]
+				皇统二年（公元1142年），宗弼还朝，独掌军政大权。[NEWLINE]
+				皇统八年（公元1148年），宗弼在上京会宁府病亡。[NEWLINE]
+			</Text>
+		</Row>
+		<!--*******************************特性*******************************-->
+		<Row Tag="TXT_KEY_TRAIT_WZJ_JIN_SHORT">
+			<Text>命世雄材</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_WZJ_JIN">
+			<Text>
+				[ICON_BULLET][COLOR_POSITIVE_TEXT]重骑兵/骑射[ENDCOLOR]单位不受克制关系影响；
+				[NEWLINE][ICON_BULLET]每击杀一个作战单位可以使首都获得1%的[ICON_PRODUCTION]产能或[ICON_RESEARCH]科研或[ICON_FOOD]粮食加成，并使所有城市建造单位的进度增加10%。
+			</Text>
+		</Row>
+		<!--*******************************外交话语*******************************-->
+		<Row Tag="TXT_KEY_LEADER_WZJ_WUZHU_FIRST_GREETING_1">
+			<Text>我是大金太师金兀术，来者何人?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_WZJ_WUZHU_DEFEATED_1">
+			<Text>一次失败而已，我当卷土重来。</Text>
+		</Row>
+
+		<!--*******************************晋升*******************************-->
+		<!--重骑：坚忍-->
+		<Row Tag="TXT_KEY_PROMOTION_JIN_MOBILE">
+			<Text>坚忍</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JIN_MOBILE_HELP">
+			<Text>对方阵步兵+100%战斗力。</Text>
+		</Row>
+		<!--轻骑：震荡-->
+		<Row Tag="TXT_KEY_PROMOTION_JIN_HITARUN">
+			<Text>震荡</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JIN_HITARUN_HELP">
+			<Text>对陆军投射单位+75%防御力。</Text>
+		</Row>
+		<!--合扎猛安：拐子马-->
+		<Row Tag="TXT_KEY_PROMOTION_JIN_HEZHAMENGAN">
+			<Text>拐子马</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JIN_HEZHAMENGAN_HELP">
+			<Text>近战攻击之前先进行一轮远程攻击，临近友军+15%战斗力。</Text>
+		</Row>
+		<!--海东青：空中侦查-->
+		<Row Tag="TXT_KEY_PROMOTION_JIN_HAIDONGQING">
+			<Text>空中侦查</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JIN_HAIDONGQING_HELP">
+			<Text>同格单位射程+1，拥有间接火力效果。</Text>
+		</Row>
+		<!--海东青：海青拿鹅-->
+		<Row Tag="TXT_KEY_PROMOTION_JIN_HAIDONGQING_EFFECT">
+			<Text>海青拿鹅</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JIN_HAIDONGQING_EFFECT_HELP">
+			<Text>射程+1，拥有间接火力效果。</Text>
+		</Row>
+		<!--*******************************单位*******************************-->
+		<!--合扎猛安-->
+		<Row Tag="TXT_KEY_UNIT_JIN_HEZHAMENGAN">
+			<Text>合扎猛安</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JIN_HEZHAMENGAN_COMBAT_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]合扎猛安[ENDCOLOR]是金的特色单位，代替[COLOR_POSITIVE_TEXT]骑士[ENDCOLOR]。[NEWLINE][NEWLINE]合扎猛安在近战之前会进行一轮远程攻击，相邻友军单位+15%战斗力。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JIN_HEZHAMENGAN_TEXT">
+			<Text>合扎猛安是金朝军名，又称亲管猛安。合扎意为"亲近".金皇室、贵族直接掌握的猛安军。</Text>
+		</Row>
+		<!--签军-->
+		<Row Tag="TXT_KEY_UNIT_JIN_QIANJUN">
+			<Text>签军</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JIN_QIANJUN_COMBAT_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]签军[ENDCOLOR]是金的特色单位，代替[COLOR_POSITIVE_TEXT]长剑士[ENDCOLOR]。[NEWLINE][NEWLINE]无维护费，孱弱而廉价的重步兵单位，购买后可移动，自带“小股部队”晋升。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JIN_QIANJUN_TEXT">
+			<Text>金元间凡遇战事，签发所有平民丁壮当兵，谓之签军。</Text>
+		</Row>
+		<!--海东青-->
+		<Row Tag="TXT_KEY_UNIT_JIN_HAIDONGQING">
+			<Text>海东青</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JIN_HAIDONGQING_COMBAT_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]海东青[ENDCOLOR]是金的特色侦查单位。[NEWLINE][NEWLINE]与海东青同格的远程部队+1射程且获得间接火力晋升。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JIN_HAIDONGQING_TEXT">
+			<Text>海东青（学名：Falco rusticolus），又名矛隼、鹘鹰、海青，是一种猎鹰，分布在北极以及北美洲、亚洲的广大地区，在中国原产于黑龙江、吉林等地。海东青身小而健，其飞极高，是狩猎中的重要帮手，能袭天鹅、搏鸡兔。海东青可分为秋黄、波黄、三年龙、玉爪，其中纯白色的玉爪最为珍贵；天鹅以珠蚌为食，食蚌后将珠藏于嗉囊。</Text>
+		</Row>
+		<!--*******************************精英单位*******************************-->
+		<!--*******************项目*******************-->
+		<Row Tag="TXT_KEY_PROJECT_IRON_PAGODA">
+			<Text>搜山捡海</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROJECT_IRON_PAGODA_HELP">
+			<Text>只有[COLOR_POSITIVE_TEXT]首个[ENDCOLOR]完成此项目的文明可以组建超重装骑兵单位：[COLOR_YIELD_GOLD]铁浮屠[ENDCOLOR]。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROJECT_IRON_PAGODA_PEDIA">
+			<Text>铁浮屠又称为铁浮图，浮屠是佛语中铁塔的意思。根据记载，属于具装重骑兵，即人马俱披重型盔甲，对敌阵发起冲击的骑兵。</Text>
+		</Row>
+
+		<!--*******************单位*******************-->
+		<Row Tag="TXT_KEY_UNIT_IRON_PAGODA">
+			<Text>[COLOR_YIELD_GOLD]超重装骑兵[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_IRON_PAGODA_NAME">
+			<Text>[COLOR_YIELD_GOLD]铁浮屠[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_IRON_PAGODA">
+			<Text>
+				[COLOR_YIELD_GOLD]铁浮屠[ENDCOLOR]血量+100，拥有强力冲锋技能：铁马嘶风万里秋。
+				[NEWLINE]铁马四风万里秋：以所在格子为中心，沿着所在六边形网格的任一边的法向5格内的非城市、山脉、水域单元可设置为冲锋目标。执行任务后单位将移动到目标格子上、损失150血量且失去全部移动力。目标格子上的敌方单位后撤一格，对应路线上（包括目标格子）的所有单位血量减少到15。
+				[NEWLINE]AI使用时获得晋升十荡十决（血量+100，每回合能够攻击10次，每次攻击回复1移动力），失去铁马嘶风晋升。
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_IRON_PAGODA_TEXT">
+			<Text>
+				铁浮屠又称为铁浮图，浮屠是佛语中铁塔的意思。根据记载，属于具装重骑兵，即人马俱披重型盔甲，对敌阵发起冲击的骑兵，与拐子马一起随同完颜宗弼(金兀术)南征北战，立下了赫赫战功。1140年，金兀术率领手下十万大军、一万五千名拐子马、五千名铁浮图屠一起，浩浩荡荡杀奔南宋行在临安，途中战无不胜，攻无不克，一直气势汹汹杀到颍河边上的顺昌。顺昌守将刘锜带领士兵英勇奋战，终于将完颜宗弼(金兀术)的五万大军、一万拐子马、三千铁浮屠全部剿灭。金兀术带领部队撤退，途中遭遇岳飞拦截，两千铁浮屠、五千拐子马、三万大军被剿灭，铁浮屠彻底覆灭。
+			</Text>
+		</Row>
+		<!--*******************晋升*******************-->
+		<Row Tag="TXT_KEY_PROMOTION_IRON_PAGODA">
+			<Text>十荡十决</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_IRON_PAGODA_HELP">
+			<Text>血量+100，每回合能够攻击10次，每次攻击回复1移动力。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_IRON_PAGODA_HUMAN">
+			<Text>铁马嘶风</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_IRON_PAGODA_HUMAN_HELP">
+			<Text>
+			血量+100，拥有强力冲锋技能：铁马嘶风万里秋。
+			</Text>
+		</Row>
+
+
+		<!--Transport-->
+		<Row Tag='TXT_KEY_TITLE_IRON_PAGODA_CHARGE'>
+			<Text>铁马嘶风万里秋</Text>
+		</Row>
+		<Row Tag='TXT_KEY_COND_IRON_PAGODA_CHARGE'>
+			<Text>
+			以所在格子为中心，沿着所在六边形网格的任一边的法向5格内的非城市、山脉、水域单元可设置为冲锋目标。执行任务后单位将移动到目标格子上、损失150血量且失去全部移动力。目标格子上的敌方单位后撤一格，对应路线上（包括目标格子）的所有单位血量减少到15。
+			</Text>
+		</Row>
+	</Language_en_US>
+
+</GameData>
