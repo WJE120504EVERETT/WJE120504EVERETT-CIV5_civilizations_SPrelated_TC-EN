@@ -2,7 +2,19 @@
 <!-- Created by ModBuddy on 2022/1/8 10:41:38 -->
 <GameData>
 	<UnitPromotions>
-		<!--轻骑：震荡-->
+		<!--Heavy Cavalry: Perseverance-->
+		<Row>
+			<Type>PROMOTION_JIN_MOBILE</Type>
+			<Description>TXT_KEY_PROMOTION_JIN_MOBILE</Description>
+			<Help>TXT_KEY_PROMOTION_JIN_MOBILE_HELP</Help>
+			<Sound>AS2D_IF_LEVELUP</Sound>
+			<PortraitIndex>32</PortraitIndex>
+			<IconAtlas>SP_PROMOTION_ATLAS</IconAtlas>
+			<PediaType>PEDIA_ATTRIBUTES</PediaType>
+			<PediaEntry>TXT_KEY_PROMOTION_JIN_MOBILE</PediaEntry>
+			<CannotBeChosen>true</CannotBeChosen>
+		</Row>
+		<!--Light Cavalry: Shock-->
 		<Row>
 			<Type>PROMOTION_JIN_HITARUN</Type>
 			<Description>TXT_KEY_PROMOTION_JIN_HITARUN</Description>
@@ -14,7 +26,7 @@
 			<PediaEntry>TXT_KEY_PROMOTION_JIN_HITARUN</PediaEntry>
 			<CannotBeChosen>true</CannotBeChosen>
 		</Row>
-		<!--合扎猛安：拐子马-->
+		<!--Hezhamengan: Crooked Horse-->
 		<Row>
 			<Type>PROMOTION_JIN_HEZHAMENGAN</Type>
 			<Description>TXT_KEY_PROMOTION_JIN_HEZHAMENGAN</Description>
@@ -28,7 +40,7 @@
 			<PediaEntry>TXT_KEY_PROMOTION_JIN_HEZHAMENGAN</PediaEntry>
 			<CannotBeChosen>true</CannotBeChosen>
 		</Row>
-		<!--海东青：空中侦查-->
+		<!--Sai Dongqing: Aerial Reconnaissance-->
 		<Row>
 			<Type>PROMOTION_JIN_HAIDONGQING</Type>
 			<Description>TXT_KEY_PROMOTION_JIN_HAIDONGQING</Description>
@@ -40,7 +52,7 @@
 			<PediaEntry>TXT_KEY_PROMOTION_JIN_HAIDONGQING</PediaEntry>
 			<CannotBeChosen>true</CannotBeChosen>
 		</Row>
-		<!--海东青：海青拿鹅-->
+		<!-- Haidongqing: Haiqing takes goose-->
 		<Row>
 			<Type>PROMOTION_JIN_HAIDONGQING_EFFECT</Type>
 			<Description>TXT_KEY_PROMOTION_JIN_HAIDONGQING_EFFECT</Description>
