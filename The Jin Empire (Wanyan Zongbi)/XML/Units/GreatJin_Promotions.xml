@@ -14,6 +14,20 @@
 			<PediaEntry>TXT_KEY_PROMOTION_JIN_MOBILE</PediaEntry>
 			<CannotBeChosen>true</CannotBeChosen>
 		</Row>
+		<!--Tie Butu: Ten swings-->
+		<Row>
+			<Type>PROMOTION_IRON_PAGODA_HUMAN</Type>
+			<Description>TXT_KEY_PROMOTION_IRON_PAGODA_HUMAN</Description>
+			<Help>TXT_KEY_PROMOTION_IRON_PAGODA_HUMAN_HELP</Help>
+			<Sound>AS2D_IF_LEVELUP</Sound>
+			<MaxHitPointsChange>100</MaxHitPointsChange>
+			<!-- <ExtraAttacks>9</ExtraAttacks> -->
+			<PortraitIndex>32</PortraitIndex>
+			<IconAtlas>SP_PROMOTION_ATLAS</IconAtlas>
+			<PediaType>PEDIA_ATTRIBUTES</PediaType>
+			<PediaEntry>TXT_KEY_PROMOTION_IRON_PAGODA_HUMAN</PediaEntry>
+			<CannotBeChosen>true</CannotBeChosen>
+		</Row>
 		<!--Light Cavalry: Shock-->
 		<Row>
 			<Type>PROMOTION_JIN_HITARUN</Type>
