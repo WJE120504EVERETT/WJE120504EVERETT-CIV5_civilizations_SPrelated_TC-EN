@@ -90,7 +90,7 @@
 		<Row>
 			<PromotionType>PROMOTION_JIN_MOBILE</PromotionType>
 			<OtherPromotionType>PROMOTION_ANTI_MOUNTED</OtherPromotionType>
-			<Modifier>75</Modifier>
+			<Modifier>100</Modifier>
 		</Row>
 	</UnitPromotions_PromotionModifiers>
 </GameData>
